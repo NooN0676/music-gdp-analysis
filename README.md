@@ -50,4 +50,6 @@ Tech Stack:
 - Matplotlib
 
 This project was meant to be a learning experience on concepts of regression, data cleaning, clustering, APIs and related concepts.
+IMPORTANT: The Kaggle link provided above contains the dataset used. Since the dataset size was >100 MB , the file file could not be included directly.
+
 
